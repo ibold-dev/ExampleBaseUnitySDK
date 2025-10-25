@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Sample Base Unity SDK-1.0";
 const contentToCache = [
     "Build/ExampleBaseUnitySDK.loader.js",
-    "Build/ExampleBaseUnitySDK.framework.js.br",
-    "Build/ExampleBaseUnitySDK.data.br",
-    "Build/ExampleBaseUnitySDK.wasm.br",
+    "Build/ExampleBaseUnitySDK.framework.js",
+    "Build/ExampleBaseUnitySDK.data",
+    "Build/ExampleBaseUnitySDK.wasm",
     "TemplateData/style.css"
 
 ];
